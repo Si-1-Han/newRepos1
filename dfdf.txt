@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 dfdfdfdf
 dfdfdernatn
 rntrnr
@@ -5,3 +6,8 @@ rbrtn
 nsrn
 sgn
 s
+=======
+dfdfdfdf
+dfdfdernatn
+rntrnr
+>>>>>>> 76fd364e99ba34826710d7adf30a646252f549cf
